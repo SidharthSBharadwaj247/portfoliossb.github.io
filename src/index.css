@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    @apply  scroll-smooth
+}
+body
+{
+    @apply box-border  text-gray-300;
+    background-color: #20262E;
+    
+}
+
+input,textarea{
+    @apply bg-gray-700 outline-none rounded-lg p-3
+}
+::placeholder{
+    @apply text-lg
+}
+::selection{
+    @apply bg-cyan-600
+}
