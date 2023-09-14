@@ -4,7 +4,7 @@ import "swiper/css"
 import "swiper/css/pagination"
 import { Pagination, Autoplay } from 'swiper'
 import project1 from '../component/images/project1.png'
-import project2 from '../component/images/project2.png'
+import project2 from '../component/images/project2.jpg'
 import project3 from '../component/images/project3.png'
 import Typewiter from "typewriter-effect"
 function Project() {
@@ -44,10 +44,10 @@ function Project() {
                 <SwiperSlide>
                 <div className='w-full h-fit p-4 bg-slate-700 rounded-xl'>
                   <img className='rounded-lg' src={project2}></img>
-                  <h3 className='text-xl my-4'>Travel Site</h3>
+                  <h3 className='text-xl my-4'>Crpto site</h3>
                   <div className='flex  gap-5'>
-                  <a target='_blank' className='text-4xl' href='https://github.com/sisabed/Travel_Travengers'><ion-icon name="logo-github"></ion-icon></a>
-                  <a target='_blank' className='text-4xl' href='https://sisabed.github.io/Travel_Travengers/'><ion-icon name="link"></ion-icon></a>
+                  <a target='_blank' className='text-4xl' href='https://github.com/SidharthSBharadwaj247/digitalcoinhub.github.io'><ion-icon name="logo-github"></ion-icon></a>
+                  <a target='_blank' className='text-4xl' href='https://sidharthbharadwaj.netlify.app/#contact'><ion-icon name="link"></ion-icon></a>
                   </div>
                 </div>
                 </SwiperSlide>
