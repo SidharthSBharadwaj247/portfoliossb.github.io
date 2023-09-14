@@ -47,7 +47,7 @@ function Project() {
                   <h3 className='text-xl my-4'>Crpto site</h3>
                   <div className='flex  gap-5'>
                   <a target='_blank' className='text-4xl' href='https://github.com/SidharthSBharadwaj247/digitalcoinhub.github.io'><ion-icon name="logo-github"></ion-icon></a>
-                  <a target='_blank' className='text-4xl' href='https://sidharthbharadwaj.netlify.app/#contact'><ion-icon name="link"></ion-icon></a>
+                  <a target='_blank' className='text-4xl' href='https://digitalcoinhub.netlify.app/'><ion-icon name="link"></ion-icon></a>
                   </div>
                 </div>
                 </SwiperSlide>
